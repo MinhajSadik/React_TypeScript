@@ -1,4 +1,5 @@
 import List from "./List";
+
 const Lists = () => {
   const items: string[] = ["Minhaj", "Ahmed", "Sadik"];
 
