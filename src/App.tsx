@@ -1,5 +1,5 @@
 const App = (): JSX.Element => {
-  return <div></div>;
+  return <div>React TypeScript</div>;
 };
 
 export default App;

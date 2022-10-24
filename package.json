@@ -1,5 +1,5 @@
 {
-  "name": "frontend",
+  "name": "react-typescript",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -54,7 +54,7 @@
     "typescript": "*"
   },
   "lint-staged": {
-    "*.js": "eslint --cache --fix",
-    "*.{js,css,md}": "prettier --write"
+    "*{.ts, .tsx}": "eslint --cache --fix",
+    "*.{ts,tsx,css,md}": "prettier --write"
   }
 }
