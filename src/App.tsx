@@ -1,7 +1,8 @@
-import "./App.css";
 
-function App() {
-  return <div className="App row"></div>;
+const App = (): JSX.Element => {
+  return (
+    <div></div>
+  )
 }
 
-export default App;
+export default App
